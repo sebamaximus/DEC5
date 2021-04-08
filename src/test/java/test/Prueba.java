@@ -32,13 +32,6 @@ public class Prueba {
 		String cp = "INICIO_PRUEBA";
 		System.out.println(cp);
 		
-		CrearLogyDocumento crearLogyDocumento = new CrearLogyDocumento(driver);
-		crearLogyDocumento.CrearEvidencias(cp);
-		
-		CrearRut crearRut = new CrearRut();
-		String rut = crearRut.RutEmpresa();
-		System.out.println(rut);
-		
 		System.out.println("FIN PRUEBA");
 	}
 	
