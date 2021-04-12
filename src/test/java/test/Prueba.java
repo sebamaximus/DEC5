@@ -30,6 +30,7 @@ public class Prueba {
 		System.out.println(cp);
 		System.out.println("Algo");
 		System.out.println("FIN PRUEBA");
+		System.out.println("FIN PRUEBA");
 	}
 	
 	@AfterMethod
