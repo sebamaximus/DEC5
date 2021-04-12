@@ -31,7 +31,7 @@ public class Prueba {
 	public void Script_Prueba() throws InterruptedException, IOException, InvalidFormatException {
 		String cp = "INICIO_PRUEBA";
 		System.out.println(cp);
-		
+		System.out.println("Algo");
 		System.out.println("FIN PRUEBA");
 	}
 	
